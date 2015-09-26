@@ -36,6 +36,8 @@
 # Copyright 2015 Your name here, unless otherwise noted.
 #
 class user {
-
+  users { 'ram':
+         uid =>'900',
+       }
 
 }
