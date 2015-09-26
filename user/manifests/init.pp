@@ -38,7 +38,7 @@
 class user {
   users { 'ram':
          uid =>'900',
-         home => '/home/sita',
+         home => '/home/hari',
        }
 
 }
